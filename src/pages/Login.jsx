@@ -25,7 +25,7 @@ const Login = () => {
         <span className="logo">Lama Chat</span>
         <span className="title">Login</span>
         <form onSubmit={handleSubmit}>
-          <input type="number" placeholder="email" />
+          <input type="email" placeholder="email" />
           <input type="password" placeholder="password" />
           <button>Sign in</button>
           {err && <span>Something went wrong</span>}
