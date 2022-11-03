@@ -9,6 +9,25 @@ At the end the backend is completely depended on firebase.
 
 The project is deployed on Netlify. it is a free service to host fronted code.
 
+## App's work flow
+
+- If a person is entering to this app at first time, he need to register by giving Display name, email id and password, then will redirect into Home page (Please not that the user is identified by the Display name here providing).
+
+- Else if a person has an account in this app, he can login by entering email id and password that he had provided earlierly. After he will redirect into Home page.
+
+- In Home page, there is a searchbar in the left side, search your friend by entering his display name, that time the friend will listed below.
+select the friend and start chating.
+
+- We can send text messages, emogies and images also to our friends.
+
+- After we typing the messages in the text box at below, need to hit `Send` button to send it.
+
+- At the time of hitting the `Send` button, the message will deliver to the recieptent.
+
+- If a friend messaged you, it will show at the top of the chat lists in left bar.
+
+- You can share this app with your friends and start chating.
+
 ## Code base
 
  - The styling is done by scss. And the complete design elements is present in - /src/style.scss
@@ -26,7 +45,7 @@ The project is deployed on Netlify. it is a free service to host fronted code.
 
 - The images used in project is there in - /src/img
 
-- The project is completely componet based. I did all features by creating components for each. The UI designs is splitted to components. Each api calls and dynamicity is saperately wrote on each components. And the components is there in - /src/components
+- The project is purely componet based. I did all features by creating components for each. The UI designs is splitted to components. Each api calls and dynamicity is saperately wrote on each components. And the components is there in - /src/components
 
 
 
