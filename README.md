@@ -4,7 +4,7 @@ Here is the deployed link [Chateyyu](https://chateyyu.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I had used latest React libraries like - Hooks for frontend, and for backend i had used firebase for authentication, and for data storing i used firebase firestore.
+I had used latest React libraries like - Hooks for frontend, and for backend i had used firebase for authentication, and for storing the data I used firebase firestore.
 At the end the backend is completely depended on firebase.
 
 The project is deployed on Netlify. it is a free service to host fronted code.
