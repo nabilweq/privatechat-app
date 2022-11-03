@@ -15,10 +15,10 @@ The project is deployed on Netlify. it is a free service to host fronted code.
 
 - Else if a person has an account in this app, he can login by entering email id and password that he had provided earlierly. After he will redirect into Home page.
 
-- In Home page, there is a searchbar in the left side, search your friend by entering his display name, that time the friend will listed below.
-select the friend and start chating.
+- In Home page, there is a search bar in the left side, search your friend by entering his display name, that time the friend will be listed below.
+Select the friend and start chating.
 
-- We can send text messages, emogies and images also to our friends.
+- We can send text messages, emogies and images also.
 
 - After we typing the messages in the text box at below, need to hit `Send` button to send it.
 
