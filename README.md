@@ -2,6 +2,8 @@
 
 Here is the deployed link [Chateyyu](https://chateyyu.netlify.app/)
 
+Demo video link [Demo](https://drive.google.com/file/d/1dhv9iWcmwGbHmJ3HZGw4MKbkgGMSkHOi/view?usp=drivesdk)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 I had used latest React libraries like - Hooks for frontend, and for backend i had used firebase for authentication, and for storing the data I used firebase firestore.
